@@ -197,13 +197,12 @@ If you rely on visual automation in production, your feedback matters.
 
 ## 🔗 Links & Documentation
 
-<div align="center">
 
 **[SikuliX1](https://github.com/oculix-org/SikuliX1)** ·  
 **[OculiX](https://github.com/oculix-org/Oculix)** ·  
 **[Releases](https://github.com/oculix-org/Oculix/releases)**
 
-</div>
+
 
 ### 📚 Original SikuliX Documentation
 
