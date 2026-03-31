@@ -151,10 +151,9 @@ If it’s visible, it’s automatable.
 ---
 
 ## 📖 The Story
-
 SikuliX started as an MIT research project in 2009.
 
-Maintained for over a decade by Raimund Hocke, it became a reference in visual automation.
+Maintained for over a decade by Raimund Hocke aka [@RaiMan](https://github.com/RaiMan) — *the pope of visual automation* — it became a reference for RPA and no web apps.
 
 In 2026, the project entered a new phase and is now maintained under **oculix-org**.
 
@@ -163,7 +162,7 @@ OculiX builds on that foundation — designed for:
 - Distributed systems  
 - Remote execution (VNC / SSH)  
 - Modern OCR requirements  
-- Production-scale automation  
+- Production-scale automation
 
 **Same philosophy. New capabilities.**
 
@@ -196,7 +195,7 @@ If you rely on visual automation in production, your feedback matters.
 
 ---
 
-## 🔗 Links
+## 🔗 Links & Documentation
 
 <div align="center">
 
@@ -205,6 +204,28 @@ If you rely on visual automation in production, your feedback matters.
 **[Releases](https://github.com/oculix-org/Oculix/releases)**
 
 </div>
+
+### 📚 Original SikuliX Documentation
+
+| Resource | Description |
+|----------|-------------|
+| [SikuliX GitBook](https://raimans-sikulix.gitbook.io/sikulix.com) | RaiMan's official overview and quickstart |
+| [API Reference (ReadTheDocs)](https://sikulix-2014.readthedocs.io/en/latest/) | Full class documentation and usage guides |
+
+**Core classes:**
+
+| Class | Role |
+|-------|------|
+| [Region](https://sikulix-2014.readthedocs.io/en/latest/region.html) | Screen area — find, click, type, wait |
+| [Screen](https://sikulix-2014.readthedocs.io/en/latest/screen.html) | Physical or remote display |
+| [Match](https://sikulix-2014.readthedocs.io/en/latest/match.html) | Result of a find operation |
+| [Pattern](https://sikulix-2014.readthedocs.io/en/latest/pattern.html) | Image + similarity + click offset |
+| [Location](https://sikulix-2014.readthedocs.io/en/latest/location.html) | Single point (x, y) on screen |
+| [Finder](https://sikulix-2014.readthedocs.io/en/latest/finder.html) | Iterator for multiple matches |
+| [App](https://sikulix-2014.readthedocs.io/en/latest/appclass.html) | Application control (focus, open, close) |
+| [OCR](https://sikulix-2014.readthedocs.io/en/latest/textandocr.html) | Text recognition and search |
+
+[![Search API](https://img.shields.io/badge/🔍_search-SikuliX_API_Reference-blue?style=for-the-badge&logo=readthedocs)](https://sikulix-2014.readthedocs.io/en/latest/search.html)
 
 ---
 
