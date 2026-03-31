@@ -153,7 +153,7 @@ If it’s visible, it’s automatable.
 ## 📖 The Story
 SikuliX started as an MIT research project in 2009.
 
-Maintained for over a decade by Raimund Hocke aka [@RaiMan](https://github.com/RaiMan) — *the pope of visual automation* — it became a reference for RPA and no web apps.
+Maintained for over a decade by Raimund Hocke aka [@RaiMan](https://github.com/RaiMan) — *the pope of visual automation* — it became a reference for RPA and non-web apps.
 
 In 2026, the project entered a new phase and is now maintained under **oculix-org**.
 
