@@ -208,7 +208,7 @@ If you rely on visual automation in production, your feedback matters.
 
 | Resource | Description |
 |----------|-------------|
-| [SikuliX GitBook](https://raimans-sikulix.gitbook.io/sikulix.com) | RaiMan's official overview and quickstart |
+| [SikuliX GitBook](https://raimans-sikulix.gitbook.io/sikulix.com) | RaiMan's official overview |
 | [API Reference (ReadTheDocs)](https://sikulix-2014.readthedocs.io/en/latest/) | Full class documentation and usage guides |
 
 **Core classes:**
