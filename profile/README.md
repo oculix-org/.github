@@ -1,13 +1,14 @@
 <div align="center">
 
 # If you can see it, you can automate it.
-
 [![Pixels](https://img.shields.io/badge/no_DOM-no_API-00B4D8?style=for-the-badge)](https://github.com/oculix-org)
 [![Just](https://img.shields.io/badge/no_source_code-just_pixels-06D6A0?style=for-the-badge)](https://github.com/oculix-org)
 <br>
 [![SikuliX Stars](https://img.shields.io/github/stars/oculix-org/SikuliX1?style=flat&label=SikuliX1&color=00B4D8)](https://github.com/oculix-org/SikuliX1)
 [![OculiX Stars](https://img.shields.io/github/stars/oculix-org/Oculix?style=flat&label=OculiX&color=06D6A0)](https://github.com/oculix-org/Oculix)
 [![License](https://img.shields.io/badge/license-MIT-white)](https://github.com/oculix-org/SikuliX1/blob/master/LICENSE)
+<br><br>
+[![Clean QA Academy](https://img.shields.io/badge/Learn_Visual_Automation-Clean_QA_Academy-FF6B35?style=for-the-badge)](https://qa-julienmer-course.pages.dev/)
 
 </div>
 
